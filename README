@@ -1,0 +1,5 @@
+# complexer
+
+fork/clone this repo
+cd into the repo and call yarn link
+compile graphs with $ complexer graph.json
